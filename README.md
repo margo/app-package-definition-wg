@@ -1,2 +1,2 @@
-# app-package-definition-wg
+# Application Package Definition WG Repository
 Location for the working group to collaborate and share content.
